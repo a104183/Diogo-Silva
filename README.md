@@ -1,5 +1,5 @@
 # About Me:
-  - 👋 Hi, I’m Diogo Silva, I'm 20 years old<br>- 🏠 Currently living in Braga, Portugal<br>- 🌱 I’m currently studying computer engineering in University of Minho<br>- 👀 I’n addition to my academic life, I love to play football and cycle regularly<br>- 📫 diogoalexandre1926@gmail.com
+  - 👋 Hi, I’m Diogo Silva, I'm 20 years old<br>- 🏠 Currently living in Braga, Portugal<br>- 🌱 I’m currently studying computer engineering in University of Minho<br>- 👀 I’n addition to my academic life, I love to play football regularly<br>- 📫 diogoalexandre1926@gmail.com
   
   
 # 🌐 Socials:
